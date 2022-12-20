@@ -1,0 +1,19 @@
+h3{
+    font-style: italic;
+    text-align: center;
+    font-size: 72pt;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+ 
+p{
+    color: white;
+    font-style: italic;
+}
+
+body{
+    background-color: black;
+}
